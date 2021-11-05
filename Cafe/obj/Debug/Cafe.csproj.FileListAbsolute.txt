@@ -1,0 +1,5 @@
+C:\Users\forem\Desktop\GoldBadgeApp\Cafe\obj\Debug\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\forem\Desktop\GoldBadgeApp\Cafe\bin\Debug\Cafe.dll
+C:\Users\forem\Desktop\GoldBadgeApp\Cafe\bin\Debug\Cafe.pdb
+C:\Users\forem\Desktop\GoldBadgeApp\Cafe\obj\Debug\Cafe.dll
+C:\Users\forem\Desktop\GoldBadgeApp\Cafe\obj\Debug\Cafe.pdb

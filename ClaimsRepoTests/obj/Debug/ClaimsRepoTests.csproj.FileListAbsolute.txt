@@ -1,0 +1,17 @@
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\obj\Debug\ClaimsRepoTests.csproj.AssemblyReference.cache
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\obj\Debug\ClaimsRepoTests.csproj.CoreCompileInputs.cache
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\ClaimsRepoTests.dll
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\ClaimsRepoTests.pdb
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\Claims.exe
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\Claims.pdb
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\Claims.exe.config
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\obj\Debug\ClaimsRepoTests.csproj.CopyComplete
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\obj\Debug\ClaimsRepoTests.dll
+C:\Users\forem\Desktop\GoldBadgeApp\ClaimsRepoTests\obj\Debug\ClaimsRepoTests.pdb

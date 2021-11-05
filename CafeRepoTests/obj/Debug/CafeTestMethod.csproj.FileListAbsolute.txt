@@ -1,0 +1,16 @@
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\bin\Debug\CafeTestMethod.dll
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\bin\Debug\CafeTestMethod.pdb
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\bin\Debug\Cafe.dll
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\bin\Debug\Cafe.pdb
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\obj\Debug\CafeTestMethod.csproj.AssemblyReference.cache
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\obj\Debug\CafeTestMethod.csproj.CoreCompileInputs.cache
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\obj\Debug\CafeTestMethod.csproj.CopyComplete
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\obj\Debug\CafeTestMethod.dll
+C:\Users\forem\Desktop\GoldBadgeApp\CafeTestMethod\obj\Debug\CafeTestMethod.pdb

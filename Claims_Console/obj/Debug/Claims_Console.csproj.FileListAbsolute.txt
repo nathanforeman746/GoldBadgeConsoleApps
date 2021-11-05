@@ -1,0 +1,11 @@
+C:\Users\forem\Desktop\GoldBadgeApp\Claims_Console\obj\Debug\Claims_Console.csproj.CoreCompileInputs.cache
+C:\Users\forem\Desktop\GoldBadgeApp\Claims_Console\bin\Debug\Claims_Console.exe.config
+C:\Users\forem\Desktop\GoldBadgeApp\Claims_Console\bin\Debug\Claims_Console.exe
+C:\Users\forem\Desktop\GoldBadgeApp\Claims_Console\bin\Debug\Claims_Console.pdb
+C:\Users\forem\Desktop\GoldBadgeApp\Claims_Console\bin\Debug\Claims.exe
+C:\Users\forem\Desktop\GoldBadgeApp\Claims_Console\bin\Debug\Claims.pdb
+C:\Users\forem\Desktop\GoldBadgeApp\Claims_Console\bin\Debug\Claims.exe.config
+C:\Users\forem\Desktop\GoldBadgeApp\Claims_Console\obj\Debug\Claims_Console.csproj.AssemblyReference.cache
+C:\Users\forem\Desktop\GoldBadgeApp\Claims_Console\obj\Debug\Claims_Console.csproj.CopyComplete
+C:\Users\forem\Desktop\GoldBadgeApp\Claims_Console\obj\Debug\Claims_Console.exe
+C:\Users\forem\Desktop\GoldBadgeApp\Claims_Console\obj\Debug\Claims_Console.pdb

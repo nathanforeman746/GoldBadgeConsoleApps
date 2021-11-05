@@ -1,0 +1,10 @@
+C:\Users\forem\Desktop\GoldBadgeApp\KomodoCafe_Console\bin\Debug\KomodoCafe_Console.exe.config
+C:\Users\forem\Desktop\GoldBadgeApp\KomodoCafe_Console\bin\Debug\KomodoCafe_Console.exe
+C:\Users\forem\Desktop\GoldBadgeApp\KomodoCafe_Console\bin\Debug\KomodoCafe_Console.pdb
+C:\Users\forem\Desktop\GoldBadgeApp\KomodoCafe_Console\bin\Debug\Cafe.dll
+C:\Users\forem\Desktop\GoldBadgeApp\KomodoCafe_Console\bin\Debug\Cafe.pdb
+C:\Users\forem\Desktop\GoldBadgeApp\KomodoCafe_Console\obj\Debug\KomodoCafe_Console.csproj.AssemblyReference.cache
+C:\Users\forem\Desktop\GoldBadgeApp\KomodoCafe_Console\obj\Debug\KomodoCafe_Console.csproj.CoreCompileInputs.cache
+C:\Users\forem\Desktop\GoldBadgeApp\KomodoCafe_Console\obj\Debug\KomodoCafe_Console.csproj.CopyComplete
+C:\Users\forem\Desktop\GoldBadgeApp\KomodoCafe_Console\obj\Debug\KomodoCafe_Console.exe
+C:\Users\forem\Desktop\GoldBadgeApp\KomodoCafe_Console\obj\Debug\KomodoCafe_Console.pdb

@@ -1,0 +1,7 @@
+C:\Users\forem\Desktop\GoldBadgeApp\Badges\bin\Debug\Badges.exe.config
+C:\Users\forem\Desktop\GoldBadgeApp\Badges\bin\Debug\Badges.exe
+C:\Users\forem\Desktop\GoldBadgeApp\Badges\bin\Debug\Badges.pdb
+C:\Users\forem\Desktop\GoldBadgeApp\Badges\obj\Debug\Badges.csproj.AssemblyReference.cache
+C:\Users\forem\Desktop\GoldBadgeApp\Badges\obj\Debug\Badges.csproj.CoreCompileInputs.cache
+C:\Users\forem\Desktop\GoldBadgeApp\Badges\obj\Debug\Badges.exe
+C:\Users\forem\Desktop\GoldBadgeApp\Badges\obj\Debug\Badges.pdb

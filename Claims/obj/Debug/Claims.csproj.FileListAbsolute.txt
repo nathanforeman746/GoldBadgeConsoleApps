@@ -1,0 +1,7 @@
+C:\Users\forem\Desktop\GoldBadgeApp\Claims\obj\Debug\Claims.csproj.CoreCompileInputs.cache
+C:\Users\forem\Desktop\GoldBadgeApp\Claims\bin\Debug\Claims.exe.config
+C:\Users\forem\Desktop\GoldBadgeApp\Claims\bin\Debug\Claims.exe
+C:\Users\forem\Desktop\GoldBadgeApp\Claims\bin\Debug\Claims.pdb
+C:\Users\forem\Desktop\GoldBadgeApp\Claims\obj\Debug\Claims.csproj.AssemblyReference.cache
+C:\Users\forem\Desktop\GoldBadgeApp\Claims\obj\Debug\Claims.exe
+C:\Users\forem\Desktop\GoldBadgeApp\Claims\obj\Debug\Claims.pdb
